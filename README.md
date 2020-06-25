@@ -1,2 +1,1 @@
-# ProjectOne
- Quote Generator
+# ProjectOne - Quote Generator
