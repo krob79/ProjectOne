@@ -2,6 +2,8 @@
 
 This project demonstrates knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.
 
+[View Project](https://krob79.github.io/ProjectOne/)
+
 ## Languages & Tools Used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=blue&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
